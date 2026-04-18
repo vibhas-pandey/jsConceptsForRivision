@@ -31,6 +31,11 @@ const person = {
 const Person = ['vibhas', 18, 'true'];
 //console.log(Person);
 
+// There are two ways to check data types in js.
+let country = "India"
+console.log(typeof country); // direct pass variable_name
+console.log(typeof(country)); // use typeof function to check data types.
+
 
 
 
