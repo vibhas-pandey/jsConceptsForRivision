@@ -40,3 +40,4 @@ console.log(typeof(country)); // use typeof function to check data types.
 
 
 
+// topics to be completed naming conventions, variable and ways to declare variable in js scoping, and data types.
